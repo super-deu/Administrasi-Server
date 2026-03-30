@@ -47,7 +47,8 @@
     - Mengubah folder /var/www/html agar bisa diakses oleh user 'ubuntu'
     - Sintaks: sudo chown -R ubuntu:ubuntu /var/www/html
 sudo chown -R ubuntu:ubuntu /var/www/html
-<img width="1190" height="956" alt="image" src="https://github.com/user-attachments/assets/0aaa5647-4b56-4abe-9f48-fefa694e9b7c" />
+<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/6645d1f5-c3cc-42af-b388-e165630262a2" />
+
 
 
 5. Edit File index.html menjadi company Profile 
