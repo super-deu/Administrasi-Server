@@ -14,5 +14,5 @@
     - Pilih Instance (NIM-SERVER6B)
     - klik Associate
 
-![alt text](image.png)
+![alt text](superip.png)
 
