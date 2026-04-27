@@ -129,7 +129,7 @@ NEXTAUTH_SECRET=ganti-dengan-string-acak-panjang-minimal-32-karakter
 NEXTAUTH_URL=http://localhost:3000/
 ```
 > Contoh `NEXTAUTH_URL=http://13.215.xxx.xxx`
-![alt text](image-4.png)
+![alt text](super.jpeg)
 ---
 
 ## Langkah 7 — Import Skema Database
